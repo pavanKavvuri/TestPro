@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                new FileUpload().execute("");
+                new FileUpload().execute("wertyu");
 
 
             }});
